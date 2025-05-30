@@ -1,30 +1,28 @@
-# BioCheck
+# BioCheck – Sistema de control de cultivo bacteriano
 
-## Descripción del Proyecto
+## 🧬 Descripción del Proyecto
 
-BioCheck es una herramienta pensada para ayudar a estudiantes y profesionales de biotecnología y bioquímica a realizar chequeos rápidos sobre conceptos clave, protocolos y buenas prácticas en el laboratorio. Apunta a ser una app/web sencilla, que brinde una guía útil en momentos críticos del trabajo o estudio.
+BioCheck es una aplicación pensada para ayudar a estudiantes y técnicos de laboratorio a **registrar y visualizar el crecimiento de cultivos bacterianos**. Permite cargar datos, ver gráficos de crecimiento y recibir alertas si hay problemas, facilitando el seguimiento de experimentos en el laboratorio.
 
-## ¿Qué problema busca resolver?
+## 🎯 ¿Qué problema busca resolver?
 
-Muchas veces, los estudiantes y profesionales necesitan confirmar pasos, cálculos o conceptos antes de realizar una tarea importante. BioCheck ayuda a tener esta información organizada, accesible y confiable, evitando errores y ganando tiempo.
+En los laboratorios educativos o de investigación, muchas veces se registra a mano el crecimiento de bacterias, lo que puede llevar a errores, pérdida de datos o falta de seguimiento. BioCheck busca digitalizar este proceso y hacerlo más claro y accesible.
 
-## Posibles funcionalidades
+## 👥 Usuarios posibles
 
-- Calculadora de diluciones y concentración.
-- Recordatorios de protocolos básicos.
-- Glosario rápido de conceptos clave (centrifugación, PCR, espectrofotometría, etc.).
-- Sección de preguntas frecuentes.
-- Acceso offline (en versión futura).
-
-## Posibles usuarios
-
-- Estudiantes de biotecnología, bioquímica, farmacia.
+- Estudiantes de bioquímica o microbiología.
 - Técnicos de laboratorio.
-- Docentes.
-- Investigadores jóvenes.
+- Docentes que supervisan prácticas.
 
-## Integrantes del Equipo
+## 🔧 Posibles funcionalidades futuras
 
-- **Nora**: buena con la organización y tareas de planificación. Manejo básico de GitHub.
-- **Laura**: ideas creativas, visión general del proyecto, manejo básico de Markdown y Git.
-- **Nicolas**: capacidad de investigación, interesado en funcionalidad y contenido técnico.
+- Cargar fotos del cultivo bacteriano para seguimiento visual.
+- Gráfico de crecimiento bacteriano por día.
+- Recomendaciones automáticas según el tipo de bacteria.
+- Base de datos con distintos tipos de bacterias y condiciones óptimas.
+
+## 👨‍👩‍👧‍👦 Integrantes del equipo
+
+- **Laura**: Se encarga de la documentación y estructura del proyecto. Buen manejo de Markdown, organización general.
+- **Nora**: Responsable de la planificación y uso de herramientas colaborativas como Issues y Kanban.
+- **Nicolas**: Encargado de investigar funcionalidades científicas del sistema y ayudar con diseño técnico de la aplicación.
