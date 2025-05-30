@@ -1,0 +1,3 @@
+git clone [url] → Clona un repositorio remoto.
+git checkout -b nombre-rama → Crea una nueva rama y te cambia a ella.
+git commit -m "mensaje" → Guarda los cambios con un mensaje.
