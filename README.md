@@ -26,3 +26,5 @@ En los laboratorios educativos o de investigación, muchas veces se registra a m
 - **Laura**: Se encarga de la documentación y estructura del proyecto. Buen manejo de Markdown, organización general.
 - **Nora**: Responsable de la planificación y uso de herramientas colaborativas como Issues y Kanban.
 - **Nicolas**: Encargado de investigar funcionalidades científicas del sistema y ayudar con diseño técnico de la aplicación.
+
+La app facilitará el seguimiento del crecimiento bacteriano en distintos medios de cultivo.
