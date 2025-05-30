@@ -1,19 +1,30 @@
-# Nombre tentativo del proyecto: BioSense
+# BioCheck
 
-## Breve descripción del proyecto:
-Este proyecto busca aplicar la biotecnología para detectar contaminantes en el agua mediante sensores biológicos. La idea es facilitar el monitoreo de calidad del agua en zonas rurales o con bajo acceso a laboratorios.
+## Descripción del Proyecto
 
-## Posibles funcionalidades:
-- Sensado de calidad de agua (detecta pH, metales pesados, etc.).
-- Envío de alertas si los niveles superan lo permitido.
-- Registro de mediciones con ubicación y fecha.
+BioCheck es una herramienta pensada para ayudar a estudiantes y profesionales de biotecnología y bioquímica a realizar chequeos rápidos sobre conceptos clave, protocolos y buenas prácticas en el laboratorio. Apunta a ser una app/web sencilla, que brinde una guía útil en momentos críticos del trabajo o estudio.
 
-## Posibles usuarios:
-- Poblaciones rurales.
-- ONGs de medio ambiente.
-- Gobiernos locales o investigadores.
+## ¿Qué problema busca resolver?
 
-## Integrantes del equipo:
-- **Laura**: conoce herramientas de Git, puede trabajar en organización y conceptos técnicos.
-- **Nora**: se encarga de planificación y gestión del proyecto.
-- **Nicolas**: colabora en redacción y documentación del proyecto.
+Muchas veces, los estudiantes y profesionales necesitan confirmar pasos, cálculos o conceptos antes de realizar una tarea importante. BioCheck ayuda a tener esta información organizada, accesible y confiable, evitando errores y ganando tiempo.
+
+## Posibles funcionalidades
+
+- Calculadora de diluciones y concentración.
+- Recordatorios de protocolos básicos.
+- Glosario rápido de conceptos clave (centrifugación, PCR, espectrofotometría, etc.).
+- Sección de preguntas frecuentes.
+- Acceso offline (en versión futura).
+
+## Posibles usuarios
+
+- Estudiantes de biotecnología, bioquímica, farmacia.
+- Técnicos de laboratorio.
+- Docentes.
+- Investigadores jóvenes.
+
+## Integrantes del Equipo
+
+- **Nora**: buena con la organización y tareas de planificación. Manejo básico de GitHub.
+- **Laura**: ideas creativas, visión general del proyecto, manejo básico de Markdown y Git.
+- **Nicolas**: capacidad de investigación, interesado en funcionalidad y contenido técnico.
