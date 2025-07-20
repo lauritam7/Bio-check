@@ -1,0 +1,22 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.pyc
+
+# Archivos de base de datos locales
+*.db
+*.sqlite3
+
+# Entornos virtuales
+env/
+venv/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Configuración específica de VSCode
+.vscode/
